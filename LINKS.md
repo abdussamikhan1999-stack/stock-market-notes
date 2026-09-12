@@ -16,7 +16,7 @@ summarized takeaways. Informational only, not financial advice.
 ## Charts
 
 - https://www.tradingview.com
-- https://www.finscreener.com
+- https://www.finscreener.com — **checked 2026-09-12: connection times out, appears dead**
 - https://www.portfoliovisualizer.com
 
 ## Screeners
